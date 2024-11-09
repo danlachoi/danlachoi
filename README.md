@@ -33,4 +33,8 @@
   <h3>Contact</h3>
   <a href="https://discord.com/users/1298304474212732980"><img src="https://svgl-badge.vercel.app/api/Software/Discord?theme=dark"></a>
 </div>
+<div align="center">
+  <h3>Repos</h3>
+        <li><a href="https://github.com/danlachoi/RezWare/">RezWare</a></li>
+</div>
 <img height=15 align="right" src="https://komarev.com/ghpvc/?username=RezWare-SoftWare&abbreviated=true" />
